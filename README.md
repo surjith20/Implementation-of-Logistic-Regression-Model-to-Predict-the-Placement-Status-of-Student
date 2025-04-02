@@ -66,9 +66,7 @@ print(classification_report)
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ```
-
 ## Output:
-
 ![image](https://github.com/user-attachments/assets/71896723-159b-4463-ad9a-c5c10a89a960)
 ![image](https://github.com/user-attachments/assets/25afe8d6-483d-4c0c-acff-fa52ad652be0)
 ![image](https://github.com/user-attachments/assets/f00fcd8d-0aaf-4910-85e7-0dbdd6acfc77)
