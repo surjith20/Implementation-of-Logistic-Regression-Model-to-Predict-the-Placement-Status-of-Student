@@ -18,8 +18,8 @@ To write a program to implement the the Logistic Regression Model to Predict the
 ```
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: MOHAMED RASHITH S
-RegisterNumber:  212223243003
+Developed by: Surjith D
+RegisterNumber:  212223043006
 */
 ```
 
